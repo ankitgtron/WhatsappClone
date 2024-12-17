@@ -142,10 +142,10 @@ The system architecture highlights the interaction between the frontend, backend
 - **Tasks:**
   1. Integrate **Clerk** for user login/signup.
      - **Reading:** [Clerk Authentication Docs](https://clerk.com/docs)  
-     - **Video:** [Clerk Authentication Setup](https://www.youtube.com/watch?v=RHFmsoiVtKE)
+     - **Video:** [Clerk Authentication Setup](https://www.youtube.com/watch?v=-4NcENXw-iw)
   2. Implement protected routes for authenticated users.
      - **Reading:** [Protected Routes in Next.js](https://next-auth.js.org/tutorials/securing-pages-and-api-routes)  
-     - **Video:** [Route Protection](https://www.youtube.com/watch?v=VJov5QWEKE4)
+     - **Video:** [Route Protection](https://www.youtube.com/watch?v=Fx8c3dQD_TI)
 
 - **Deliverables:**
   - Functional authentication system with user profiles.
