@@ -216,7 +216,6 @@ The system architecture highlights the interaction between the frontend, backend
 ![Screenshot (316)](https://github.com/user-attachments/assets/ec8be976-a55f-414f-82c1-f0323089758e)
 ![Screenshot (317)](https://github.com/user-attachments/assets/44e6836e-3a30-4ae4-af88-1cc162e42914)
 ![Screenshot (318)](https://github.com/user-attachments/assets/3b7ae655-d585-47e7-8280-b1fcd85046b3)
-![Screenshot (302)](https://github.com/user-attachments/assets/a7881c36-5cfa-4ac4-9f32-41cd36716268)
 ![Screenshot (306)](https://github.com/user-attachments/assets/6d47f1d9-3e5b-493e-81f3-60690f4c85c9)
 
 ---
