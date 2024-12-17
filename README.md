@@ -115,6 +115,10 @@ The system architecture highlights the interaction between the frontend, backend
 - **APIs:** OpenAI for AI functionalities.
 - **Deployment:** Vercel for the frontend and Convex for backend hosting.
 
+![Screenshot (321)](https://github.com/user-attachments/assets/3344a353-12d1-417b-a9bb-776575b1ad3e)
+![Screenshot (320)](https://github.com/user-attachments/assets/c0a0a980-8604-466f-9a34-40b693cbb2f7)
+
+
 ---
 
 ## **Week-by-Week Plan**
@@ -190,10 +194,10 @@ The system architecture highlights the interaction between the frontend, backend
 - **Tasks:**
   1. Implement video calling with **screen sharing**.
      - **Reading:** [WebRTC Video Calling Guide](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)  
-     - **Video:** [Building Video Conferencing Apps](https://www.youtube.com/watch?v=dR0V11CjND0)
+     - **Video:** [Building Video Conferencing Apps](https://www.youtube.com/watch?v=pGAp5rxv6II)
   2. Deploy the application using **Vercel**.
      - **Reading:** [Deploying Next.js Apps](https://vercel.com/docs)  
-     - **Video:** [Vercel Deployment Tutorial](https://www.youtube.com/watch?v=YdYyYMFPa44)
+     - **Video:** [Vercel Deployment Tutorial](https://www.youtube.com/watch?v=2HBIzEx6IZA)
 
 - **Deliverables:**
   - Fully functional WhatsAppClone app deployed and publicly accessible.
@@ -201,11 +205,19 @@ The system architecture highlights the interaction between the frontend, backend
 ---
 
 ### **Screenshots**
-Add relevant screenshots of the WhatsAppClone UI showcasing key features:
-1. Light/Dark Mode
-2. Real-Time Messaging
-3. AI-Powered Chat and Image Generation
-4. Video Calling Interface
+
+![Screenshot (308)](https://github.com/user-attachments/assets/6e614462-7b64-48a4-9cc1-b5eb6bae903f)
+![Screenshot (309)](https://github.com/user-attachments/assets/55c690f7-3f83-47d0-b5dd-0620513d3f33)
+![Screenshot (310)](https://github.com/user-attachments/assets/a4550c83-7d85-4204-8659-369d7a8d7805)
+![Screenshot (311)](https://github.com/user-attachments/assets/79088240-af14-4d87-abfb-78099ea1d4e7)
+![Screenshot (312)](https://github.com/user-attachments/assets/562f2fcd-dfaf-4a06-9dc9-c64a594e8066)
+![Screenshot (314)](https://github.com/user-attachments/assets/2b6cd021-dd56-47fa-b691-966e9dfbe3cf)
+![Screenshot (315)](https://github.com/user-attachments/assets/a0a22b6d-c16e-430a-90fd-5b727f196ea2)
+![Screenshot (316)](https://github.com/user-attachments/assets/ec8be976-a55f-414f-82c1-f0323089758e)
+![Screenshot (317)](https://github.com/user-attachments/assets/44e6836e-3a30-4ae4-af88-1cc162e42914)
+![Screenshot (318)](https://github.com/user-attachments/assets/3b7ae655-d585-47e7-8280-b1fcd85046b3)
+![Screenshot (302)](https://github.com/user-attachments/assets/a7881c36-5cfa-4ac4-9f32-41cd36716268)
+![Screenshot (306)](https://github.com/user-attachments/assets/6d47f1d9-3e5b-493e-81f3-60690f4c85c9)
 
 ---
 
