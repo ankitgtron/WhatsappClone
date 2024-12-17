@@ -115,7 +115,7 @@ The system architecture highlights the interaction between the frontend, backend
 - **APIs:** OpenAI for AI functionalities.
 - **Deployment:** Vercel for the frontend and Convex for backend hosting.
 
-![Screenshot (321)](https://github.com/user-attachments/assets/3344a353-12d1-417b-a9bb-776575b1ad3e)
+![image](https://github.com/user-attachments/assets/c9093c2f-d83d-4bd3-8c64-499558f72032)
 ![Screenshot (320)](https://github.com/user-attachments/assets/c0a0a980-8604-466f-9a34-40b693cbb2f7)
 
 
