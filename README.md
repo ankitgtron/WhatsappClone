@@ -157,13 +157,13 @@ The system architecture highlights the interaction between the frontend, backend
 - **Tasks:**
   1. Set up a **Convex** database for storing messages and conversations.
      - **Reading:** [Convex Quickstart Guide](https://docs.convex.dev/quickstart)  
-     - **Video:** [Getting Started with Convex](https://www.youtube.com/watch?v=3QoymnQjRmg)
+     - **Video:** [Getting Started with Convex](https://www.youtube.com/watch?v=vaQZYRSiimI)
   2. Implement private and group chat functionalities.
-     - **Reading:** [Real-Time Messaging with Convex](https://docs.convex.dev/tutorials/chat)  
-     - **Video:** [Building Real-Time Apps](https://www.youtube.com/watch?v=bD3j1L1b8p4)
+     - **Reading:** [Real-Time Messaging with Convex](https://docs.convex.dev/tutorial)  
+     - **Video:** [Building Real-Time Apps](https://www.youtube.com/watch?v=O_HXVAMPEbc)
   3. Display **online status** and message delivery indicators.
      - **Reading:** [State Management with Convex](https://docs.convex.dev/)  
-     - **Video:** [Building User Presence](https://www.youtube.com/watch?v=nHC7P6FqOgg)
+     - **Video:** [Building User Presence](https://www.youtube.com/watch?v=WyS3mF4wJKw)
 
 - **Deliverables:**
   - Real-time messaging system with group support.
