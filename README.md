@@ -175,10 +175,10 @@ The system architecture highlights the interaction between the frontend, backend
 - **Tasks:**
   1. Integrate **OpenAI GPT API** for chat responses.
      - **Reading:** [OpenAI API Documentation](https://platform.openai.com/docs/)  
-     - **Video:** [Integrating OpenAI APIs](https://www.youtube.com/watch?v=5Uu2l5ZtD6M)
+     - **Video:** [Integrating OpenAI APIs](https://www.youtube.com/watch?v=7pV_TCCK3Hw)
   2. Implement image generation using **DALL·E API**.
      - **Reading:** [DALL·E API Overview](https://platform.openai.com/docs/guides/images)  
-     - **Video:** [DALL·E Image Generation](https://www.youtube.com/watch?v=n1krRofMbtA)
+     - **Video:** [DALL·E Image Generation](https://www.youtube.com/watch?v=hSe_HWLn6Wg)
 
 - **Deliverables:**
   - AI-powered chat completions and image generation.
