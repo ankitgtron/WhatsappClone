@@ -124,13 +124,13 @@ The system architecture highlights the interaction between the frontend, backend
 - **Tasks:**
   1. Initialize a **Next.js** project with TypeScript and Tailwind CSS.
      - **Reading:** [Next.js TypeScript Setup](https://nextjs.org/docs/basic-features/typescript)  
-     - **Video:** [Setting Up Next.js with Tailwind](https://www.youtube.com/watch?v=d1E0DABdWn4)
+     - **Video:** [Setting Up Next.js with Tailwind](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=114s)
   2. Integrate **ShadCN UI** for pre-built components.
      - **Reading:** [ShadCN UI Docs](https://ui.shadcn.com/docs)  
-     - **Video:** [ShadCN Components Setup](https://www.youtube.com/watch?v=IInQH-dNfFA)
+     - **Video:** [ShadCN Components Setup](https://www.youtube.com/watch?v=O4AjymzpIEg&t=162s)
   3. Build the **light/dark mode** toggle feature.
      - **Reading:** [Dark Mode in Tailwind](https://tailwindcss.com/docs/dark-mode)  
-     - **Video:** [Tailwind Dark Mode Guide](https://www.youtube.com/watch?v=dYgSS7-_VBo)
+     - **Video:** [Tailwind Dark Mode Guide](https://www.youtube.com/watch?v=_9mTJ84uL1Q)
 
 - **Deliverables:**
   - Fully responsive UI layout with light/dark mode support.
