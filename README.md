@@ -121,6 +121,13 @@ The system architecture highlights the interaction between the frontend, backend
 
 ---
 
+### **Project Structure for Feature Implementation**
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
+
+**NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
+
+---
+
 ## **Week-by-Week Plan**
 
 ### **Week 1: Project Setup and UI Design**
